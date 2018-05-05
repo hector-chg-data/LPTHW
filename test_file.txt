@@ -1,1 +1,0 @@
-This is a simple file written in vim to learn how to wrangle with files. More precisely, with text files.
