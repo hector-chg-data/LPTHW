@@ -1,6 +1,6 @@
-from sys import argv as argumentos_terminal
+from sys import argv
 
-script, input_fie = argumentos_terminal
+script, input_file = argv
 
 def print_all(f):
     print(f.read())
