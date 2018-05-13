@@ -1,2 +1,8 @@
 # Gedit noise
 *.py~
+
+# Python
+__pycache__/
+
+# git
+.gitignore~
