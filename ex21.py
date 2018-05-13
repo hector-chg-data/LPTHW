@@ -27,7 +27,7 @@ while (choice != True or choice != False):
     print("Would you like to conform yourself with Zed Shaw prepotency?")
     choice = input("Yes or No? (Y/N): ")
     
-    if choice == "Y" or choice == "y" or choice == 1:
+    if choice == "Y" or choice == "y" or choice == "1":
         print("YOU LAZY PIECE OF FAGGET\n")
         choice = True
         break
